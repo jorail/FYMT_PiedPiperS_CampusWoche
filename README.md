@@ -7,6 +7,7 @@ MS Visual Studio Code 1.134.0
 + PlatformIO IDE extension
 + a number of libraries included in the platformio.ini and the PiedPiperS.cpp code, which will be loaded automatically when compiling
 + one manual amendment in the SPIFFSIniFile.h library: add in file SPIFFSIniFile.h following line: #include "SPIFFS.h" //manually added in order to prevent error: 'SPIFFS' was not declared in this scope
+  
   Path in VSCode Explorer > PiedPiperS > .pio > libdeps > ESP32C3_SuperMini > SPIFFSIniFile > src > SPIFFSIniFile.h
 
 
