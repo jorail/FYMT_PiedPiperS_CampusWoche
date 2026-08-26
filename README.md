@@ -6,7 +6,7 @@ MS Visual Studio Code 1.134.0
 + C/C++ Extension Pack (including C/C++ extension, CMake Tools)
 + PlatformIO IDE extension
 + a number of libraries included in the platformio.ini and the PiedPiperS.cpp code, which will be loaded automatically when compiling
-+ one amendment in the SPIFFSIniFile.h library: add in file SPIFFSIniFile.h following line: #include "SPIFFS.h" //manually added in order to prevent error: 'SPIFFS' was not declared in this scope 
++ one manual amendment in the SPIFFSIniFile.h library: add in file SPIFFSIniFile.h following line: #include "SPIFFS.h" //manually added in order to prevent error: 'SPIFFS' was not declared in this scope 
 
 See further Project detail, explainations and some photos in the 'docs' folder.
 
