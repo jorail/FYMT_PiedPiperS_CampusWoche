@@ -1,6 +1,6 @@
 # FYMT_PiedPiperS_CampusWoche
 
-Sofware environemtn used: 
+Sofware environment used: 
 
 MS Visual Studio Code 1.134.0
 + C/C++ Extension Pack (including C/C++ extension, CMake Tools)
