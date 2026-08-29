@@ -21,7 +21,7 @@ In the \data folder, you can edit the lok.ini text file and set the basic variab
   password, 
   Motor supply volatage
   
-See further detail in the \docs\ReadMe_lok_ini.md. Assure, that all lines in the lok.ini file stay within a maximum of 40 characters line length, so that the software can process it. For further detail see 
+See further detail in the \docs\ReadMe_lok_ini.md. Assure, that all lines in the lok.ini file stay within a maximum of 40 characters line length, so that the software can process it. 
 
 The installation of the PiedPiperS software at the ESP32-C3-zero microprocessor flash memory requires using the PlatformIO extension as follows: 
 1. Build Filesystem Image of the content in the \data folder using the PlatformIO extension 
