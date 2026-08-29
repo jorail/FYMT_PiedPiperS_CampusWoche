@@ -18,6 +18,20 @@
   
   #include "SPIFFS.h" //manuell hinzugefügt, um den Fehler "SPIFFS" wurde in diesem Geltungsbereich nicht deklariert zu vermeiden
 
+Im Ordner „\data“ kann das Bild „lok.png“ angepasst werden. Es sollte eine Breite von 300 Pixeln und eine Höhe von 100 Pixeln haben und nicht viel mehr als 60 KB groß sein. Dazu die Auflösung des Bildes entsprechend verringern oder die Komprimierung erhöhen, z. B. mit der App „IrfanView“.
+
+Im Ordner \data kann die Textdatei „lok.ini“ bearbeitet werden, um die Variablen für den Start des PiedPiperS-Codes festzulegen:
+
+  Lok-Name,
+
+  WLAN-Name/SSID,
+
+  Passwort,
+
+  Versorgungsspannung des Motors
+
+Weitere Details siehe Datei \docs\ReadMe_lok_ini.md. Achtung, alle Zeilen in der Datei „lok.ini“ dürfen eine maximale Zeilenlänge von 40 Zeichen nicht überschreiten, damit die Software sie verarbeiten kann.
+
 **Installation der PiedPiperS-Software im FlashSpeicher des ESP32-C3-Zero-Mikroprozessors durch Nutzung der PlatformIO-Erweiterung:**
 
 1. Erstelle das Dateisystem-Image des Inhalts im Ordner \data mithilfe der PlatformIO-Erweiterung:
