@@ -12,12 +12,12 @@ MS Visual Studio Code 1.134.0
 
 See further Project detail, explainations and some photos in the <a href="\docs"> \docs folder:</a>
 
-<a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/Readme_DE.md">Readme auf Deutsch</a> und 
++ <a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/Readme_DE.md">Readme auf Deutsch</a> und 
 <a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/PiedPiperS_268_2026_08_26_minimal.pdf">Anleitung mit Bildern</a> (Instruction with images)
-
 <a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/PiedPiperS_268_2026_08_26_minimal.pdf" download>
 <img width="60%" alt="grafik" src="https://github.com/user-attachments/assets/91492745-7107-4ebc-bbe6-698731e4cf6b" />
 </a>
+
 
 In the \data folder, you can adjust the lok.png photo. It should have an extension of 300 pixels width 100 pixels height and about and not much more than 60 KB. Reduce the resolution of the photo accordingly or increase the compressen, e.g. using IrfanView app.
 
