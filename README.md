@@ -10,9 +10,11 @@ MS Visual Studio Code 1.134.0
   
   Path in VSCode Explorer > PiedPiperS > .pio > libdeps > ESP32C3_SuperMini > SPIFFSIniFile > src > SPIFFSIniFile.h
 
-See further Project detail, explainations and some photos in the \docs folder:
+See further Project detail, explainations and some photos in the <a href="\docs"> \docs folder:</a>
 
-https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/PiedPiperS_268_2026_08_26_minimal.pdf 
+<a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/Readme_DE.md">Readme auf Deutsch</a>
+
+<a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/PiedPiperS_268_2026_08_26_minimal.pdf">Instruction / Anleitung</a>
 
 <a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/PiedPiperS_268_2026_08_26_minimal.pdf" download>
 <img width="100%" alt="grafik" src="https://github.com/user-attachments/assets/91492745-7107-4ebc-bbe6-698731e4cf6b" />
