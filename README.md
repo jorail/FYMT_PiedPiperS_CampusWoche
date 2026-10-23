@@ -11,6 +11,7 @@ MS Visual Studio Code 1.134.0
   Path in VSCode Explorer > PiedPiperS > .pio > libdeps > ESP32C3_SuperMini > SPIFFSIniFile > src > SPIFFSIniFile.h
 
 See further Project detail, explainations and some photos in the \docs folder:
+
 https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/PiedPiperS_268_2026_08_26_minimal.pdf 
 
 In the \data folder, you can adjust the lok.png photo. It should have an extension of 300 pixels width 100 pixels height and about and not much more than 60 KB. Reduce the resolution of the photo accordingly or increase the compressen, e.g. using IrfanView app.
