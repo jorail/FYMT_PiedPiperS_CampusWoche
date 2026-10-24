@@ -15,7 +15,7 @@ See further Project detail, explainations and some photos in the <a href="\docs"
 + <a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/Readme_DE.md">Readme auf Deutsch</a> und 
 <a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/PiedPiperS_268_2026_08_26_minimal.pdf">Anleitung mit Bildern</a> (Instruction with images)
 <a href="https://github.com/jorail/FYMT_PiedPiperS_CampusWoche/blob/main/docs/PiedPiperS_268_2026_08_26_minimal.pdf" download>
-<img width="60%" alt="grafik" src="https://github.com/user-attachments/assets/91492745-7107-4ebc-bbe6-698731e4cf6b" />
+<img width="80%" alt="grafik" src="https://github.com/user-attachments/assets/91492745-7107-4ebc-bbe6-698731e4cf6b" />
 </a>
  
  
